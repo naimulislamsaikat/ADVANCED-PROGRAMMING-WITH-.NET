@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\10th Semester Fall\\ADVANCED PROGRAMMING WITH .NET [C]\\Practice work\\Basic Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39114919-17C7-4AC9-AE41-DCAE97B83E8F}|Basic Practice\\Basic Practice.csproj|e:\\university\\10th semester fall\\advanced programming with .net [c]\\practice work\\basic practice\\basic practice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39114919-17C7-4AC9-AE41-DCAE97B83E8F}|Basic Practice\\Basic Practice.csproj|solutionrelative:basic practice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39114919-17C7-4AC9-AE41-DCAE97B83E8F}|Basic Practice\\Basic Practice.csproj|e:\\university\\10th semester fall\\advanced programming with .net [c]\\practice work\\basic practice\\basic practice\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39114919-17C7-4AC9-AE41-DCAE97B83E8F}|Basic Practice\\Basic Practice.csproj|solutionrelative:basic practice\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39114919-17C7-4AC9-AE41-DCAE97B83E8F}|Basic Practice\\Basic Practice.csproj|e:\\university\\10th semester fall\\advanced programming with .net [c]\\practice work\\basic practice\\basic practice\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39114919-17C7-4AC9-AE41-DCAE97B83E8F}|Basic Practice\\Basic Practice.csproj|solutionrelative:basic practice\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39114919-17C7-4AC9-AE41-DCAE97B83E8F}|Basic Practice\\Basic Practice.csproj|e:\\university\\10th semester fall\\advanced programming with .net [c]\\practice work\\basic practice\\basic practice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39114919-17C7-4AC9-AE41-DCAE97B83E8F}|Basic Practice\\Basic Practice.csproj|solutionrelative:basic practice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\ADVANCED PROGRAMMING WITH .NET [C]\\Practice work\\Basic Practice\\Basic Practice\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Basic Practice\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\ADVANCED PROGRAMMING WITH .NET [C]\\Practice work\\Basic Practice\\Basic Practice\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Basic Practice\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:52:43.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\ADVANCED PROGRAMMING WITH .NET [C]\\Practice work\\Basic Practice\\Basic Practice\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Basic Practice\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\ADVANCED PROGRAMMING WITH .NET [C]\\Practice work\\Basic Practice\\Basic Practice\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Basic Practice\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:52:40.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\ADVANCED PROGRAMMING WITH .NET [C]\\Practice work\\Basic Practice\\Basic Practice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Basic Practice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\ADVANCED PROGRAMMING WITH .NET [C]\\Practice work\\Basic Practice\\Basic Practice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Basic Practice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:52:15.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\ADVANCED PROGRAMMING WITH .NET [C]\\Practice work\\Basic Practice\\Basic Practice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Basic Practice\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\ADVANCED PROGRAMMING WITH .NET [C]\\Practice work\\Basic Practice\\Basic Practice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Basic Practice\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:52:08.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
