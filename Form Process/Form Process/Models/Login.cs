@@ -10,6 +10,7 @@ namespace Form_Process.Models
     {
         [Required]
         public string name { get; set; }
+
         [Required]
         public string password { get; set; }
     }

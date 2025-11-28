@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\views\\login\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\views\\login\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\views\\login\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\views\\login\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,48 +52,87 @@
               "RelativeDocumentMoniker": "Form Process\\App_Start\\RouteConfig.cs",
               "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "Form Process\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T17:38:29.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "log.cshtml",
-              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Login\\log.cshtml",
-              "RelativeDocumentMoniker": "Form Process\\Views\\Login\\log.cshtml",
-              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Login\\log.cshtml",
-              "RelativeToolTip": "Form Process\\Views\\Login\\log.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T17:37:42.575Z",
+              "WhenOpened": "2025-11-28T05:33:10.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "Form Process\\Models\\Login.cs",
-              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Models\\Login.cs",
-              "RelativeToolTip": "Form Process\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T17:30:18.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Form Process\\Controllers\\LoginController.cs",
               "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Form Process\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T15:56:02.383Z",
+              "WhenOpened": "2025-11-28T05:30:16.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "log.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Login\\log.cshtml",
+              "RelativeDocumentMoniker": "Form Process\\Views\\Login\\log.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Login\\log.cshtml",
+              "RelativeToolTip": "Form Process\\Views\\Login\\log.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T05:30:12.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Form Process\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Form Process\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T05:30:10.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Form Process\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Form Process\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T05:30:07.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Form Process\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Form Process\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T05:30:04.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Form Process\\Models\\Login.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Models\\Login.cs",
+              "RelativeToolTip": "Form Process\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:29:52.853Z",
               "EditorCaption": ""
             }
           ]
