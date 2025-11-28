@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\basic form\\basic form\\views\\home\\intro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|solutionrelative:basic form\\views\\home\\intro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\basic form\\basic form\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|solutionrelative:basic form\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\basic form\\basic form\\views\\login\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|solutionrelative:basic form\\views\\login\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\basic form\\basic form\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|solutionrelative:basic form\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\basic form\\basic form\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A667A7-150C-4321-88DA-A4C830D71178}|Basic Form\\Basic Form.csproj|solutionrelative:basic form\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Models\\LogIn.cs",
+              "RelativeDocumentMoniker": "Basic Form\\Models\\LogIn.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Models\\LogIn.cs",
+              "RelativeToolTip": "Basic Form\\Models\\LogIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:11:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Basic Form\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Basic Form\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:59:50.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Intro.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Views\\Home\\Intro.cshtml",
+              "RelativeDocumentMoniker": "Basic Form\\Views\\Home\\Intro.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Views\\Home\\Intro.cshtml",
+              "RelativeToolTip": "Basic Form\\Views\\Home\\Intro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T04:47:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Views\\Login\\log.cshtml",
+              "RelativeDocumentMoniker": "Basic Form\\Views\\Login\\log.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Views\\Login\\log.cshtml",
+              "RelativeToolTip": "Basic Form\\Views\\Login\\log.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T04:43:43.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Basic Form\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Basic Form\\Basic Form\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Basic Form\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:38:37.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
