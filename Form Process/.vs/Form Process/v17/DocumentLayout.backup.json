@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\form process\\form process\\views\\login\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552583D8-E60B-429B-AD95-5E53C02D5F84}|Form Process\\Form Process.csproj|solutionrelative:form process\\views\\login\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Form Process\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Form Process\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:38:29.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "log.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Login\\log.cshtml",
+              "RelativeDocumentMoniker": "Form Process\\Views\\Login\\log.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Views\\Login\\log.cshtml",
+              "RelativeToolTip": "Form Process\\Views\\Login\\log.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T17:37:42.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Form Process\\Models\\Login.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Models\\Login.cs",
+              "RelativeToolTip": "Form Process\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:30:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Form Process\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Form Process\\Form Process\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Form Process\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T15:56:02.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
