@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Login</h2>
+@Html.ValidationSummary()
+
+<form action="" method="post">
+    <input type="text" placeholder="Username" class="form-control" value="@Model.Username" name="Username" />
+    <span class="text-danger">@Html.ValidationMessage("Username")</span>
+
+    <input type="password" placeholder="Password" class="form-control" value="@Model.Password" name="Password" />
+    <span class="text-danger">@Html.ValidationMessage("Password")</span><br />
+
+    <input type="submit" value="Login" class="btn btn-success" />
+
+    <a href="/Login/Register" class="btn btn-primary">Registration</a>
+</form>

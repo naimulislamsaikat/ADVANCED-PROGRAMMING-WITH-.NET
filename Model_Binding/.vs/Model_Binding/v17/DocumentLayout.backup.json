@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Model_Binding\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Model_Binding\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:16:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Model_Binding\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Model_Binding\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:16:36.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 520,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
