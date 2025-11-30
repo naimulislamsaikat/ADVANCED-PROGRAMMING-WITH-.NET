@@ -1,5 +1,4 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "Register";
 }
 
@@ -37,10 +36,10 @@
 <h2>Register</h2>
 <form method="post">
     <input type="text" name="Id" value="@Model.Id" class="form-control" placeholder="Id" />
-    <span class="text-danger">@Html.ValidationMessage("Id")</span> <br
+    <span class="text-danger">@Html.ValidationMessage("Id")</span> <br />
 
     <input type="text" name="Name" value="@Model.Name" class="form-control" placeholder="Name" />
-    <span class="text-danger">@Html.ValidationMessage("Name")</span> <br
+    <span class="text-danger">@Html.ValidationMessage("Name")</span> <br />
 
     <input type="text" name="Username" value="@Model.Username" class="form-control" placeholder="Username" />
     <span class="text-danger">@Html.ValidationMessage("Usernameame")</span>

@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Web;
+
+namespace ViewBag.Models
+{
+    public class Student
+    {
+        [Required(ErrorMessage = "Must give Id")]
+        [Range(1, 40)]
+        public int Id { get; set; }
+
+        [Required]
+        [StringLength(100, MinimumLength = 3)]
+        public string Name { get; set; }
+
+        [Required(ErrorMessage = "Minimum Length is 3")]
+        [StringLength(20, MinimumLength = 3)]
+        public string Username { get; set; }
+
+        [Required]
+        [EmailAddress(ErrorMessage = "Format of Email not valid")]
+        public string Email { get; set; }
+
+        [Required(ErrorMessage = "Minimum Length is 4")]
+        [StringLength(50, MinimumLength = 4)]
+        public string Password { get; set; }
+
+        [Required]
+        public string Gender { get; set; }
+
+        [Required]
+        public string Profession { get; set; }
+
+        [Required]
+        public string[] Hobbies { get; set; }
+
+    }
+}
