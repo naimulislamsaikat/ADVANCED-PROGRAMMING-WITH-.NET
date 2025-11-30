@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\model_binding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +54,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Model_Binding\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Model_Binding\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:47:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Model_Binding\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Model_Binding\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:47:48.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Model_Binding\\Models\\Student.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Models\\Student.cs",
+              "RelativeToolTip": "Model_Binding\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:47:32.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Model_Binding\\Models\\Login.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Models\\Login.cs",
+              "RelativeToolTip": "Model_Binding\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:47:22.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Model_Binding\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Model_Binding\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:46:57.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Model_Binding\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Model_Binding\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:46:49.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Model_Binding\\Views\\Shared\\_Layout.cshtml",
@@ -42,13 +144,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Register.cshtml",
               "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Views\\Login\\Register.cshtml",
               "RelativeDocumentMoniker": "Model_Binding\\Views\\Login\\Register.cshtml",
               "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Views\\Login\\Register.cshtml",
               "RelativeToolTip": "Model_Binding\\Views\\Login\\Register.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAArwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-30T06:28:28.445Z",
               "EditorCaption": ""

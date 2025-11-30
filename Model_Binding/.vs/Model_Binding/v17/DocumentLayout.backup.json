@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\model_binding\\model_binding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\model_binding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5E6BF63F-54AB-4D91-9F94-8F64CB0D4EC6}|Model_Binding\\Model_Binding.csproj|solutionrelative:model_binding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Model_Binding\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T06:28:30.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T06:28:30.05Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Model_Binding\\Views\\Login\\Register.cshtml",
               "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Model_Binding\\Model_Binding\\Views\\Login\\Register.cshtml",
               "RelativeToolTip": "Model_Binding\\Views\\Login\\Register.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAArwCkAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAArwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-30T06:28:28.445Z",
               "EditorCaption": ""
