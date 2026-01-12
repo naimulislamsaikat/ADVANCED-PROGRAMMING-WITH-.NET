@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Zero Hunger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{636F6EC3-B055-4B51-8941-FB5D389A1BF4}|Zero Hunger\\Zero Hunger.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\zero hunger\\zero hunger\\ef\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636F6EC3-B055-4B51-8941-FB5D389A1BF4}|Zero Hunger\\Zero Hunger.csproj|solutionrelative:zero hunger\\ef\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636F6EC3-B055-4B51-8941-FB5D389A1BF4}|Zero Hunger\\Zero Hunger.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\zero hunger\\zero hunger\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{636F6EC3-B055-4B51-8941-FB5D389A1BF4}|Zero Hunger\\Zero Hunger.csproj|solutionrelative:zero hunger\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636F6EC3-B055-4B51-8941-FB5D389A1BF4}|Zero Hunger\\Zero Hunger.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\zero hunger\\zero hunger\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636F6EC3-B055-4B51-8941-FB5D389A1BF4}|Zero Hunger\\Zero Hunger.csproj|solutionrelative:zero hunger\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636F6EC3-B055-4B51-8941-FB5D389A1BF4}|Zero Hunger\\Zero Hunger.csproj|e:\\university\\10th semester fall\\.net codes\\advanced-programming-with-.net\\zero hunger\\zero hunger\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636F6EC3-B055-4B51-8941-FB5D389A1BF4}|Zero Hunger\\Zero Hunger.csproj|solutionrelative:zero hunger\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Zero Hunger\\Zero Hunger\\EF\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "Zero Hunger\\EF\\Model1.Designer.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Zero Hunger\\Zero Hunger\\EF\\Model1.Designer.cs",
+              "RelativeToolTip": "Zero Hunger\\EF\\Model1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:55:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Zero Hunger\\Zero Hunger\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "Zero Hunger\\EF\\Model1.edmx",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Zero Hunger\\Zero Hunger\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Zero Hunger\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-30T17:54:23Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Zero Hunger\\Zero Hunger\\EF\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Zero Hunger\\EF\\Model1.Context.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Zero Hunger\\Zero Hunger\\EF\\Model1.Context.cs",
+              "RelativeToolTip": "Zero Hunger\\EF\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:46:02.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Zero Hunger\\Zero Hunger\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Zero Hunger\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\University\\10th Semester Fall\\.NET Codes\\ADVANCED-PROGRAMMING-WITH-.NET\\Zero Hunger\\Zero Hunger\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Zero Hunger\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:45:37.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 520,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

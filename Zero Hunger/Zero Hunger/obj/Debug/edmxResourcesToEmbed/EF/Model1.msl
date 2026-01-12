@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ZeroHungerModelStoreContainer" CdmEntityContainer="ZeroHungerEntities">
+    <EntitySetMapping Name="ResturentInfoes">
+      <EntityTypeMapping TypeName="ZeroHungerModel.ResturentInfo">
+        <MappingFragment StoreEntitySet="ResturentInfo">
+          <ScalarProperty Name="ResturentId" ColumnName="ResturentId" />
+          <ScalarProperty Name="ResturentName" ColumnName="ResturentName" />
+          <ScalarProperty Name="ResturentLocation" ColumnName="ResturentLocation" />
+          <ScalarProperty Name="PreserveDate" ColumnName="PreserveDate" />
+          <ScalarProperty Name="Assigned" ColumnName="Assigned" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

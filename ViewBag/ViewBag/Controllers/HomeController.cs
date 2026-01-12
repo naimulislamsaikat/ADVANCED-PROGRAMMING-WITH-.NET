@@ -11,11 +11,7 @@ namespace ViewBag.Controllers
     {
         public ActionResult Index(Login l)
         {
-            ViewBag.Username = l.UserName;
-            ViewBag.Password = l.Password;
-
-            return View(ViewBag);
-
+            return View();
         }
 
         public ActionResult Contact()

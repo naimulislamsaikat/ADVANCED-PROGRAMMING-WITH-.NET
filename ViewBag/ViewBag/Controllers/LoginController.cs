@@ -12,12 +12,16 @@ namespace ViewBag.Controllers
     {
         // This is an example of using ViewBag to capture form data.
         [HttpGet]
-        public ActionResult Index(string Username, string Password)
-        {
-            ViewBag.Username = Username;
-            ViewBag.Password = Password;
+        //public ActionResult Index(string Username, string Password)
+        //{
+        //    ViewBag.Username = Username;
+        //    ViewBag.Password = Password;
 
-            return View(ViewBag);
+        //    return View(ViewBag);
+        //}
+        public ActionResult Index()
+        {
+            return View();
         }
 
         [HttpPost]

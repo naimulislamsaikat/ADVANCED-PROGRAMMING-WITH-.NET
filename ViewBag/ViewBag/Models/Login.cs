@@ -9,7 +9,7 @@ namespace ViewBag.Models
     public class Login
     {
         [Required]
-        [StringLength(5)]
+        [StringLength(10)]
         public string Username { get; set; }
         [Required]
         public string Password { get; set; }
