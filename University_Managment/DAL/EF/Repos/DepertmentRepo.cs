@@ -25,19 +25,28 @@ namespace DAL.EF.Repos
         }
         public bool Update(Depertment d)
         {
-            var exobj = Get(d.Id); //
-            db.Entry(exobj).CurrentValues.SetValues(d);
+            var obj = Get(d.Id); 
+            db.Entry(obj).CurrentValues.SetValues(d);
             return db.SaveChanges() > 0;
         }
         public bool Delete(int id)
         {
-            var exobj = Get(id);
-            db.Depertments.Remove(exobj);
+            var obj = Get(id);
+            db.Depertments.Remove(obj);
             return db.SaveChanges() > 0;
         }
         public List<Depertment> Get()
         {
             return db.Depertments.ToList();
+        }
+        public bool Search(int id)
+        {
+            var dept = db.Depertments.Find(id);
+            if (dept != null)
+            {
+                return true;
+            }
+            return false;
         }
         //public Depertment GetByName(string name)
         //{

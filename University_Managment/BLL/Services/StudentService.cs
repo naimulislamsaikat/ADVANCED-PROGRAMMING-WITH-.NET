@@ -32,5 +32,21 @@ namespace BLL.Services
             Student data = MapperConfig.GetMapper().Map<Student>(dto);
             return factory.StudentData().Create(data);
         }
+        public bool Update(StudentDTO dto)
+        {
+            Student data = MapperConfig.GetMapper().Map<Student>(dto);
+            return factory.StudentData().Update(data);
+        }
+        public bool Delete(int id)
+        {
+            return factory.StudentData().Delete(id);
+        }
+
+        public StudentDTO GetSearch(int id)
+        {
+            Student data = factory.StudentData().Get(id);
+            StudentDTO ret = MapperConfig.GetMapper().Map<StudentDTO>(data);
+            return ret;
+        }
     }
 }

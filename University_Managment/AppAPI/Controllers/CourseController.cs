@@ -7,49 +7,45 @@ namespace AppAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class StudentController : ControllerBase
+    public class CourseController : ControllerBase
     {
-        StudentService service;
-        public StudentController(StudentService service)
+        CourseService service;
+        public CourseController(CourseService service)
         {
             this.service = service;
         }
+
         [HttpGet("all")]
         public IActionResult All()
         {
             var data = service.All();
             return Ok(data);
         }
+
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
             var data = service.Get(id);
             return Ok(data);
         }
-        [HttpPost("create")]
-        public IActionResult Create(StudentDTO d)
-        {
 
-            var rs = service.Create(d);
-            return Ok(rs);
-        }
-        [HttpPut("update")]
-        public IActionResult Update(StudentDTO d)
+        [HttpPost("create")]
+        public IActionResult Create([FromBody]CourseDTO d)
         {
-            var rs = service.Update(d);
-            return Ok(rs);
+            var data = service.Create(d);
+            return Ok(data);
         }
+
         [HttpDelete("delete/{id}")]
         public IActionResult Delete(int id)
         {
-            var rs = service.Delete(id);
-            return Ok(rs);
+            var data = service.Delete(id);
+            return Ok(data);
         }
-
-        [HttpGet("search/{id}")]
-        public IActionResult Search(int id)
+        [HttpPut("update")]
+        public IActionResult Update(CourseDTO d)
         {
-            var data = service.GetSearch(id);
+            var data = service.Update(d);
             return Ok(data);
         }
     }

@@ -2,11 +2,11 @@
 using DAL.Interfaces;
 using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Data;
 
 namespace DAL.EF.Repos
 {
-    public class StudentRepo : IRepository<Student>
+    public class StudentRepo : IRepository<Student>, IStudentRepository
     {
         UMSContaxt db;
         public StudentRepo(UMSContaxt db)
@@ -28,15 +28,22 @@ namespace DAL.EF.Repos
         }
         public bool Update(Student s)
         {
-            var ex = Get(s.Id);
-            db.Entry(ex).CurrentValues.SetValues(s);
+            var data = Get(s.Id);
+            db.Entry(data).CurrentValues.SetValues(s);
             return db.SaveChanges() > 0;
         }
         public bool Delete(int id)
         {
-            var ex = Get(id);
-            db.Students.Remove(ex);
+            var data = Get(id);
+            db.Students.Remove(data);
             return db.SaveChanges() > 0;
+        }
+        public bool GetSearch(int id)
+        {
+            var data = Get(id);
+            if (data != null)
+                return true;
+            return false;
         }
     }
 }

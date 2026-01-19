@@ -1,6 +1,7 @@
 using BLL.Services;
 using DAL;
 using DAL.EF;
+using DAL.EF.Model;
 using DAL.EF.Repos;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,6 +20,12 @@ builder.Services.AddScoped<DepertmentService>();
 
 builder.Services.AddScoped<StudentRepo>();
 builder.Services.AddScoped<StudentService>();
+
+builder.Services.AddScoped<CourseRepo>();
+builder.Services.AddScoped<CourseService>();
+
+//builder.Services.AddScoped<PaymentRepo>();
+//builder.Services.AddScoped<PaymentService>();
 
 builder.Services.AddDbContext<UMSContaxt>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DbConn")));

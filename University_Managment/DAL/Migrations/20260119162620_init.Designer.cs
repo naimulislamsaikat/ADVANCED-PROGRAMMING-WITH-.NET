@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DAL.Migrations
 {
     [DbContext(typeof(UMSContaxt))]
-    [Migration("20260119115137_InitDb")]
-    partial class InitDb
+    [Migration("20260119162620_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,6 +23,28 @@ namespace DAL.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("DAL.EF.Model.Course", b =>
+                {
+                    b.Property<int>("CId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CId"));
+
+                    b.Property<string>("CName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("DepId")
+                        .HasColumnType("int");
+
+                    b.HasKey("CId");
+
+                    b.HasIndex("DepId");
+
+                    b.ToTable("Courses");
+                });
 
             modelBuilder.Entity("DAL.EF.Model.Depertment", b =>
                 {
@@ -43,6 +65,38 @@ namespace DAL.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Depertments");
+                });
+
+            modelBuilder.Entity("DAL.EF.Model.Payment", b =>
+                {
+                    b.Property<int>("PId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PId"));
+
+                    b.Property<decimal>("PAmount")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("PSemester")
+                        .HasColumnType("int");
+
+                    b.Property<string>("PStatus")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PType")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.HasKey("PId");
+
+                    b.HasIndex("StudentId");
+
+                    b.ToTable("Payments");
                 });
 
             modelBuilder.Entity("DAL.EF.Model.Student", b =>
@@ -73,6 +127,28 @@ namespace DAL.Migrations
                     b.HasIndex("DepertmentId");
 
                     b.ToTable("Students");
+                });
+
+            modelBuilder.Entity("DAL.EF.Model.Course", b =>
+                {
+                    b.HasOne("DAL.EF.Model.Depertment", "Depertment")
+                        .WithMany()
+                        .HasForeignKey("DepId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Depertment");
+                });
+
+            modelBuilder.Entity("DAL.EF.Model.Payment", b =>
+                {
+                    b.HasOne("DAL.EF.Model.Student", "Student")
+                        .WithMany()
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Student");
                 });
 
             modelBuilder.Entity("DAL.EF.Model.Student", b =>

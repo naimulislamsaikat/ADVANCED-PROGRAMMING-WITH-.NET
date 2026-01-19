@@ -1,6 +1,8 @@
 C:\Users\HP\source\repos\University_Managment\DAL\bin\Debug\net10.0\DAL.deps.json
+C:\Users\HP\source\repos\University_Managment\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
 C:\Users\HP\source\repos\University_Managment\DAL\bin\Debug\net10.0\DAL.dll
 C:\Users\HP\source\repos\University_Managment\DAL\bin\Debug\net10.0\DAL.pdb
+C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
 C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
 C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
@@ -8,7 +10,5 @@ C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\DAL.csproj.C
 C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\DAL.dll
 C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\refint\DAL.dll
 C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\DAL.pdb
-C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\ref\DAL.dll
-C:\Users\HP\source\repos\University_Managment\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
-C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
 C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
+C:\Users\HP\source\repos\University_Managment\DAL\obj\Debug\net10.0\ref\DAL.dll

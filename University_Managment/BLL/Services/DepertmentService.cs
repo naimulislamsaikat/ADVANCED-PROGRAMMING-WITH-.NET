@@ -37,8 +37,8 @@ namespace BLL.Services
         }
         public bool Delete(int id)
         {
-            var data = factory.GetDepRepo().Get(id);
-            //factory.GetDepRepo().Delete(data);
+            //var data = factory.GetDepRepo().Get(id);
+            factory.GetDepRepo().Delete(id);
             return true;
         }
         public bool Update(DepertmentDTO dto)

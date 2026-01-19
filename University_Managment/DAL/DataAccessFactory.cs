@@ -20,5 +20,14 @@ namespace DAL
         {
             return new StudentRepo(db);
         }
+        public IStudentRepository StudentSearchData()
+        {
+            return new StudentRepo(db);
+        }
+        public IRepository<Course> CourseData()
+        {
+            return new CourseRepo(db);
+        }
+
     }
 }

@@ -1,5 +1,79 @@
 [
   {
+    "ContainingType": "AppAPI.Controllers.CourseController",
+    "Method": "Get",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppAPI.Controllers.CourseController",
+    "Method": "All",
+    "RelativePath": "api/Course/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppAPI.Controllers.CourseController",
+    "Method": "Create",
+    "RelativePath": "api/Course/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "d",
+        "Type": "BLL.DTOs.CourseDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppAPI.Controllers.CourseController",
+    "Method": "Delete",
+    "RelativePath": "api/Course/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppAPI.Controllers.CourseController",
+    "Method": "Update",
+    "RelativePath": "api/Course/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "d",
+        "Type": "BLL.DTOs.CourseDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AppAPI.Controllers.DepertmentController",
     "Method": "Get",
     "RelativePath": "api/Depertment/{id}",
@@ -44,7 +118,7 @@
   {
     "ContainingType": "AppAPI.Controllers.DepertmentController",
     "Method": "Delete",
-    "RelativePath": "api/Depertment/delete",
+    "RelativePath": "api/Depertment/delete/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -52,7 +126,23 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppAPI.Controllers.DepertmentController",
+    "Method": "Update",
+    "RelativePath": "api/Depertment/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "d",
+        "Type": "BLL.DTOs.DepertmentDTO",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -88,6 +178,54 @@
     "Method": "Create",
     "RelativePath": "api/Student/create",
     "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "d",
+        "Type": "BLL.DTOs.StudentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppAPI.Controllers.StudentController",
+    "Method": "Delete",
+    "RelativePath": "api/Student/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppAPI.Controllers.StudentController",
+    "Method": "Search",
+    "RelativePath": "api/Student/search/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppAPI.Controllers.StudentController",
+    "Method": "Update",
+    "RelativePath": "api/Student/update",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [

@@ -37,10 +37,16 @@ namespace AppAPI.Controllers
             return Ok(rs);
         }
 
-        [HttpDelete("delete")]
+        [HttpDelete("delete/{id}")]
         public IActionResult Delete(int id)
         {
             var rs = service.Delete(id);
+            return Ok(rs);
+        }
+        [HttpPut("update")]
+        public IActionResult Update(DepertmentDTO d)
+        {
+            var rs = service.Update(d);
             return Ok(rs);
         }
     }
