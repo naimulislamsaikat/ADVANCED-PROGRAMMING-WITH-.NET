@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\University_Managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E302D1C-2863-4E26-8EAC-38C892916B01}|BLL\\BLL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E302D1C-2863-4E26-8EAC-38C892916B01}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A38170B-924E-4A5F-A3D9-2CA6FBE42F92}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\ef\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A38170B-924E-4A5F-A3D9-2CA6FBE42F92}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A38170B-924E-4A5F-A3D9-2CA6FBE42F92}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A38170B-924E-4A5F-A3D9-2CA6FBE42F92}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E302D1C-2863-4E26-8EAC-38C892916B01}|BLL\\BLL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E302D1C-2863-4E26-8EAC-38C892916B01}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A38170B-924E-4A5F-A3D9-2CA6FBE42F92}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\ef\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A38170B-924E-4A5F-A3D9-2CA6FBE42F92}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E302D1C-2863-4E26-8EAC-38C892916B01}|BLL\\BLL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E302D1C-2863-4E26-8EAC-38C892916B01}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE32FF-45D6-46FD-B6DD-19EBF557697C}|AppAPI\\AppAPI.csproj|c:\\users\\hp\\source\\repos\\university_managment\\appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEE32FF-45D6-46FD-B6DD-19EBF557697C}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A38170B-924E-4A5F-A3D9-2CA6FBE42F92}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A38170B-924E-4A5F-A3D9-2CA6FBE42F92}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\AppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\AppAPI\\Program.cs",
+              "RelativeToolTip": "AppAPI\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:16:22.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Model\\Student.cs",
+              "RelativeToolTip": "DAL\\EF\\Model\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:18:18.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:33:00.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:20:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Repos\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\EF\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:15:28.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:10:05.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:08:54.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:07:06.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
