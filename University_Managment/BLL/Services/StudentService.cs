@@ -14,6 +14,13 @@ namespace BLL.Services
         {
             this.factory = factory;
         }
+        public StudentDTO GetSearch(int id)
+        {
+            Student data = factory.StudentData().Get(id);
+            StudentDTO ret = MapperConfig.GetMapper().Map<StudentDTO>(data);
+            return ret;
+        }
+
         public List<StudentDTO> All()
         {
             var data = factory.StudentData().Get();
@@ -40,13 +47,6 @@ namespace BLL.Services
         public bool Delete(int id)
         {
             return factory.StudentData().Delete(id);
-        }
-
-        public StudentDTO GetSearch(int id)
-        {
-            Student data = factory.StudentData().Get(id);
-            StudentDTO ret = MapperConfig.GetMapper().Map<StudentDTO>(data);
-            return ret;
         }
     }
 }

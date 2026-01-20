@@ -30,24 +30,23 @@ namespace AppAPI.Controllers
         }
 
         [HttpPost("create")]
-        public IActionResult Create(DepertmentDTO d)
+        public IActionResult Create(DepertmentDTO dp)
         {
-
-            var rs = service.Create(d);
-            return Ok(rs);
+            var data = service.Create(dp);
+            return Ok(data);
         }
 
         [HttpDelete("delete/{id}")]
         public IActionResult Delete(int id)
         {
-            var rs = service.Delete(id);
-            return Ok(rs);
+            var data = service.Delete(id);
+            return Ok(data);
         }
         [HttpPut("update")]
-        public IActionResult Update(DepertmentDTO d)
+        public IActionResult Update(DepertmentDTO dp)
         {
-            var rs = service.Update(d);
-            return Ok(rs);
+            var data = service.Update(dp);
+            return Ok(data);
         }
     }
 }

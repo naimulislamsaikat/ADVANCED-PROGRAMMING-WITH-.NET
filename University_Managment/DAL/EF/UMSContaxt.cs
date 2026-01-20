@@ -15,5 +15,6 @@ namespace DAL.EF
         public DbSet<Depertment> Depertments { get; set; }
         public DbSet<Course> Courses { get; set; }
         public DbSet<Payment> Payments { get; set; }
+
     }
 }

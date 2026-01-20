@@ -8,6 +8,5 @@ namespace DAL.Interfaces
     public interface IStudentRepository 
     {
         bool GetSearch(int id);
-        //List<Student> GetSearch(int id);
     }
 }

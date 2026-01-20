@@ -42,8 +42,15 @@ namespace DAL.EF.Repos
         {
             var data = Get(id);
             if (data != null)
+            {
                 return true;
+            }
             return false;
+        }
+
+        object IRepository<Student>.PaymentStatus(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }

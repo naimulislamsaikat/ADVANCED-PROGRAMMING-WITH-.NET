@@ -28,6 +28,10 @@ namespace DAL
         {
             return new CourseRepo(db);
         }
-
+        public IRepository<Payment> PaymentData()
+        {
+            return new PaymentRepo(db);
+        }
+        
     }
 }

@@ -10,6 +10,7 @@ namespace BLL
             c.CreateMap<Depertment, DepertmentDTO>().ReverseMap();
             c.CreateMap<Student, StudentDTO>().ReverseMap();
             c.CreateMap<Course, CourseDTO>().ReverseMap();
+            c.CreateMap<Payment, PaymentDTO>().ReverseMap();
 
         });
         public static Mapper GetMapper()

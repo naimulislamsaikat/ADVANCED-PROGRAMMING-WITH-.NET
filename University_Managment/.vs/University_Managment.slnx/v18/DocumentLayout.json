@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\University_Managment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\bll\\services\\checkdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\checkdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\bll\\dtos\\checkdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\checkdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|c:\\users\\hp\\source\\repos\\university_managment\\appapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:25:15.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:25:10.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\Services\\CheckDetailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CheckDetailService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\Services\\CheckDetailService.cs",
+              "RelativeToolTip": "BLL\\Services\\CheckDetailService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:24:43.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\DTOs\\CheckDetailDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CheckDetailDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\DTOs\\CheckDetailDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CheckDetailDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:24:38.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\AppAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\AppAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:24:26.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

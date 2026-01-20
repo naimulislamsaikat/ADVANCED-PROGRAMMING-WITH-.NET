@@ -10,7 +10,6 @@ namespace BLL.Services
 {
     public class DepertmentService
     {
-        //DepertmentRepo repo;
         DataAccessFactory factory;
         public DepertmentService(DataAccessFactory factory)
         {
@@ -37,7 +36,6 @@ namespace BLL.Services
         }
         public bool Delete(int id)
         {
-            //var data = factory.GetDepRepo().Get(id);
             factory.GetDepRepo().Delete(id);
             return true;
         }
@@ -47,23 +45,5 @@ namespace BLL.Services
             factory.GetDepRepo().Update(data);
             return true;
         }
-
-        //public DepertmentDTO GetByName(string name)
-        //{
-        //    var data = repo.GetByName(name);
-        //    return MapperConfig.GetMapper().Map<DepertmentDTO>(data);
-
-        //}
-        //public DepertmentStudentDTO GetWithStudents(int id)
-        //{
-        //    var data = repo.DepertmentFeature().GetWithStudents(id);
-        //    return MapperConfig.GetMapper().Map<DepertmentStudentDTO>(data);
-        //}
-        //public List<DepertmentCountDTO> TopNDeparmentsStCount(int n)
-        //{
-        //    var data = repo.DepertmentFeature().TopNDeparmentsStCount(n);
-        //    return MapperConfig.GetMapper().Map<List<DepertmentCountDTO>>(data);
-
-        //}
     }
 }

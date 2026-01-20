@@ -13,5 +13,6 @@ namespace BLL.DTOs
         public string Number { get; set; }
         public string Email { get; set; }
         public int DepertmentId { get; set; }
+        public string DepertmentName { get; set; }
     }
 }

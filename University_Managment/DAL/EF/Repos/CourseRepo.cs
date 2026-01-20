@@ -13,6 +13,15 @@ namespace DAL.EF.Repos
         {
             this.db = db;
         }
+        public bool Search(int id)
+        {
+            var dept = db.Courses.Find(id);
+            if (dept != null)
+            {
+                return true;
+            }
+            return false;
+        }
         public Course Get(int id)
         {
             return db.Courses.Find(id);
@@ -38,14 +47,10 @@ namespace DAL.EF.Repos
             db.Courses.Remove(obj);
             return db.SaveChanges() > 0;
         }
-        public bool Search(int id)
+
+        object IRepository<Course>.PaymentStatus(int id)
         {
-            var dept = db.Courses.Find(id);
-            if (dept != null)
-            {
-                return true;
-            }
-            return false;
+            throw new NotImplementedException();
         }
     }
 }

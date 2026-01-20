@@ -14,6 +14,13 @@ namespace DAL.EF.Repos
         {
             this.db = db;
         }
+        public Depertment GetByName(string name)
+        {
+            var dept = (from d in db.Depertments
+                        where d.DepName.Contains(name)
+                        select d).SingleOrDefault();
+            return dept;
+        }
         public Depertment Get(int id)
         {
             return db.Depertments.Find(id);
@@ -48,12 +55,10 @@ namespace DAL.EF.Repos
             }
             return false;
         }
-        //public Depertment GetByName(string name)
-        //{
-        //    var dept = (from d in db.Depertments
-        //                where d.DepName.Contains(name)
-        //                select d).SingleOrDefault();
-        //    return dept;
-        //}
+
+        object IRepository<Depertment>.PaymentStatus(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

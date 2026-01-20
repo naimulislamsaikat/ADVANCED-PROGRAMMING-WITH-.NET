@@ -24,8 +24,10 @@ builder.Services.AddScoped<StudentService>();
 builder.Services.AddScoped<CourseRepo>();
 builder.Services.AddScoped<CourseService>();
 
-//builder.Services.AddScoped<PaymentRepo>();
-//builder.Services.AddScoped<PaymentService>();
+builder.Services.AddScoped<PaymentRepo>();
+builder.Services.AddScoped<PaymentService>();
+
+builder.Services.AddScoped<CheckDetailService>();
 
 builder.Services.AddDbContext<UMSContaxt>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DbConn")));

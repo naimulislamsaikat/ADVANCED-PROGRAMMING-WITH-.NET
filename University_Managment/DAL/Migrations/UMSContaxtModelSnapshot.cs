@@ -21,6 +21,19 @@ namespace DAL.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("DAL.EF.Model.CheckDetail", b =>
+                {
+                    b.Property<int>("CDId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CDId"));
+
+                    b.HasKey("CDId");
+
+                    b.ToTable("CheckDetails");
+                });
+
             modelBuilder.Entity("DAL.EF.Model.Course", b =>
                 {
                     b.Property<int>("CId")

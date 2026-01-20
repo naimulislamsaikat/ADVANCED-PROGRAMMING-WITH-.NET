@@ -11,6 +11,6 @@ namespace DAL.Interfaces
         List<T> Get();
         bool Update(T s);
         bool Delete(int id);
-        //bool search(int id);
+        object PaymentStatus(int id);
     }
 }

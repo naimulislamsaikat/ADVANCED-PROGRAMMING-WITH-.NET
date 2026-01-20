@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\University_Managment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\bll\\services\\checkdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\checkdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\ef\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\ef\\repos\\paymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\repos\\paymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\ef\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\dal\\ef\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|c:\\users\\hp\\source\\repos\\university_managment\\appapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\hp\\source\\repos\\university_managment\\bll\\dtos\\checkdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\checkdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\Services\\StudentService.cs",
-              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Model\\Payment.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Model\\Payment.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Model\\Payment.cs",
+              "RelativeToolTip": "DAL\\EF\\Model\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T18:41:18.294Z",
+              "WhenOpened": "2026-01-20T19:02:15.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "PaymentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Repos\\PaymentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Repos\\PaymentRepo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Repos\\PaymentRepo.cs",
+              "RelativeToolTip": "DAL\\EF\\Repos\\PaymentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:02:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Model\\Course.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Model\\Course.cs",
+              "RelativeToolTip": "DAL\\EF\\Model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:01:35.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Repos\\CourseRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Repos\\CourseRepo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\DAL\\EF\\Repos\\CourseRepo.cs",
+              "RelativeToolTip": "DAL\\EF\\Repos\\CourseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:01:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\AppAPI\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "AppAPI\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\AppAPI\\Controllers\\StudentController.cs",
               "RelativeToolTip": "AppAPI\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T18:39:47.078Z",
+              "WhenOpened": "2026-01-20T18:46:03.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\Services\\CheckDetailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CheckDetailService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\Services\\CheckDetailService.cs*",
+              "RelativeToolTip": "BLL\\Services\\CheckDetailService.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:17:27.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\DTOs\\CheckDetailDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CheckDetailDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\University_Managment\\BLL\\DTOs\\CheckDetailDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CheckDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:15:03.455Z",
               "EditorCaption": ""
             }
           ]
